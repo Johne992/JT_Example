@@ -1,0 +1,83 @@
+body { 
+background-color: #c5f0d1
+}
+
+body {
+  color: #465027;
+  font-family: 'DotGothic16', serif;
+  font-size: 48px;
+}
+
+
+anim-img{
+padding: 10px 10px 10px 10px
+} 
+
+.weeknd{
+  list-style-type: none;
+  font-weight: bold;
+  border-style: solid;
+  width: 200px;
+  list-style-type: none;
+  color: #7D967D;
+  padding: 10px;
+}
+
+li{
+  font-weight: 500; 
+}
+
+p,ul,h1,h3,h4{
+  font-family: garamond;
+  font-size: 17px
+}
+
+a:link{
+  color: #7e8047
+}
+a:visited{
+  color: #000000
+  }
+a:hover{
+  color: #ff2200; font-weight: bold
+}
+a:active{
+  color: #ffffff
+}
+
+/* KEEP ORDER.VERY IMPORTANT */
+
+/* MOVE ALL WEEKND TABLES/BOXES SIDE BY SIDE*/
+
+table, th, td{
+  border-style: solid;
+  border-weight: 2px;
+  border-color: #664623;
+  border-collapse: collapse;
+  border-width: 3.18px;
+  font-family: courier new;
+}
+
+
+
+th{
+  background-color: #B9A494;
+  font-style: bold;
+  text-align: center
+}
+
+td{
+  font-size: 17px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 2.8px;
+} 
+
+
+tr:nth-child(odd){
+    background: #9AB9AA;
+}
+
+.music_table{
+  margin-left: 30px;
+}
